@@ -51,15 +51,25 @@ The goal of this assignment was to build an interactive Python script that handl
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   ```
 
 2. **Navigate to the Directory:**
 
 ```bash
 
 cd YOUR_REPOSITORY_NAME
+```
 
 3. **Run the Script:**
 
 ```bash
 
 python session1_assignment.py
+```
+
+## 💻 Technologies Used
+**Language:** Python 3.x
+
+**IDE:** Google Colab / VS Code
+
+**Concepts:** Type Casting, f-strings, Comparison/Logical Operators, List Iteration, Error Handling.
